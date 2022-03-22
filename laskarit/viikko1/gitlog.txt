@@ -1,0 +1,113 @@
+commit d51a170511afa73a663459ec37333754cb572f5e
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:27:25 2022 +0200
+
+    file2 -> file22, file1 gone
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a94fda518459bc6f200f62c5bc41e387e393fa68
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:26:00 2022 +0200
+
+    lisätty tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 731c3e415d5f5a9c182a32b9a5790588de7b7c90
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:24:20 2022 +0200
+
+    muutettu eka kolmas
+
+ eka.txt    | 1 -
+ kolmas.txt | 2 ++
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 3662633248c7c77f368080c88ea94ef61ac56809
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:23:37 2022 +0200
+
+    tiedosto -> eka
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2d792e651f8f5d9cfdb155276355938762592379
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:22:24 2022 +0200
+
+    toinen del
+
+ toinen.txt | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit 168abc910dd710a18b7e5f4d38b9e225745d8864
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:21:38 2022 +0200
+
+     poistettu tekstiä
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 6026b277ed05688aea8b91ce016ff4db648c1d10
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:20:54 2022 +0200
+
+    tekstiä
+
+ tiedosto.txt | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 9301f813b3dee56218a3449a5905a37966e14931
+Author: von Bell Mirko A <mirko.vonbell@helsinki.fi>
+Date:   Tue Mar 22 14:19:33 2022 +0200
+
+    added stuff
+
+ stuff/tiedosto | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 392b37749f6fa1f697fc5a7ddad2d3da8f939b53
+Author: von Bell Mirko A <vamamirk@melkki.cs.helsinki.fi>
+Date:   Tue Mar 22 14:15:38 2022 +0200
+
+    toinen kolmas muutos
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit aa16493074e18e51b4453974974b78d9d08fd7c3
+Author: von Bell Mirko A <vamamirk@melkki.cs.helsinki.fi>
+Date:   Tue Mar 22 13:27:51 2022 +0200
+
+    kolmas added
+
+ kolmas.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit b42d5c0b59d254e6c648c94619a0e0fd66ea59c5
+Author: von Bell Mirko A <vamamirk@melkki.cs.helsinki.fi>
+Date:   Tue Mar 22 13:25:02 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit fdc707ec169f10d90b3309001b2ad6cf611796e9
+Author: von Bell Mirko A <vamamirk@melkki.cs.helsinki.fi>
+Date:   Tue Mar 22 13:02:27 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
