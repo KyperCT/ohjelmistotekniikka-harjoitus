@@ -1,6 +1,6 @@
 # ohjelmistotekniikka, harjoitus
 
-Repo ohjelmistotekniikan kurssin harjoitustyölle ja laskareille
+Repositorio ohjelmistotekniikan kurssin harjoitustyölle ja laskareille
 
 
 ## Tehtävät
