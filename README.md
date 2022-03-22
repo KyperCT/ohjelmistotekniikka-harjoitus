@@ -1,4 +1,4 @@
-# ohjelmistotekniikka-harjoitus
+# ohjelmistotekniikka, harjoitus
 
 Repo ohjelmistotekniikan kurssin harjoitustyölle ja laskareille
 
