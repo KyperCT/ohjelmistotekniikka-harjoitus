@@ -1,4 +1,4 @@
-# viikko 3 luokkakaavioita
+# viikko 3 kaavioita
 
 ## tehtävä 1
 
