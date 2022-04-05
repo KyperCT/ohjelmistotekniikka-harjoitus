@@ -47,7 +47,30 @@ Kortti "1" -- "1" Toiminto
 Pelaaja "1" -- "0..1" Katu : Omistaa
 Katu "1" -- "0..4" Talo
 Katu "1" -- "0..1" Hotelli
+```
 
+## Tehtävä 3
+
+```mermaid
+sequenceDiagram
+main ->>+ Machine: Machine()
+Machine ->> FuelTank: FuelTank()
+Machine ->> FuelTank: fill(40)
+Machine ->> Engine: Engine(self._tank)
+Machine -->>- main: #160;
+
+main ->>+ Machine: drive()
+Machine ->>+ Engine: start()
+Engine ->> FuelTank: consume(5)
+Engine -->>- Machine: #160;
+Machine ->>+ Engine: is_running()
+Engine ->>+ FuelTank: fuel_contents
+FuelTank -->>- Engine: 35
+Engine -->>- Machine: True
+Machine ->>+ Engine: use_energy()
+Engine ->> FuelTank: consume(10)
+Engine -->>- Machine: #160;
+Machine -->>- main: #160;
 
 
 ```
