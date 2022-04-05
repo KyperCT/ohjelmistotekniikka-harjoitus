@@ -8,3 +8,6 @@ Repositorio ohjelmistotekniikan kurssin harjoitustyölle ja laskareille
 [komentorivi](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/laskarit/viikko1/komentorivi.txt)
 
 [gitlog](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/laskarit/viikko1/gitlog.txt)
+
+### Viikko3
+[kaaviot](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/laskarit/viikko3/viikko3kaaviot.md)
