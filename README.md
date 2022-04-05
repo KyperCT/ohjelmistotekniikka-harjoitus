@@ -1,13 +1,8 @@
-# ohjelmistotekniikka, harjoitus
+# velkakirjasovellus
 
-Repositorio ohjelmistotekniikan kurssin harjoitustyölle ja laskareille
+Sovellus velkojen pitämiseen eri ihmisten välillä.
 
+### Dokumentaatio
 
-## Tehtävät
-### Viikko 1
-[komentorivi](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/laskarit/viikko1/komentorivi.txt)
-
-[gitlog](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/laskarit/viikko1/gitlog.txt)
-
-### Viikko3
-[kaaviot](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/laskarit/viikko3/viikko3kaaviot.md)
+[Vaatimusmäärittely](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/harjoitustyo/documentation/vaatimusmaarittely.md)
+[Työaikakirjanpito](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/harjoitustyo/documentation/tyoaikakirjanpito.md)
