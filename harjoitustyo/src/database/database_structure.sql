@@ -1,6 +1,6 @@
 create table users (
 uid integer primary key,
-username text not null
+username text unique not null
 );
 
 create table user_statistics (
