@@ -7,3 +7,5 @@ Sovellus velkojen pitämiseen eri ihmisten välillä.
 [Vaatimusmäärittely](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/harjoitustyo/documentation/vaatimusmaarittely.md)
 
 [Työaikakirjanpito](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/harjoitustyo/documentation/tyoaikakirjanpito.md)
+
+[Changelog](https://github.com/KyperCT/ohjelmistotekniikka-harjoitus/blob/main/harjoitustyo/documentation/changelog.md)
